@@ -19,7 +19,7 @@ Bem-vindo ao BE HUMBLE bot, personalizado para o gerenciamento de membros em seu
 - Após as respostas, o bot envia uma mensagem a um canal exclusivo para moderadores, contendo todas as informações coletadas.
 
 **Registro em Planilha XLSX:**
-- As informações do usuário são salvas em uma planilha XLSX para referência futura.
+- As informações (nickname e data de aniversário) do usuário são salvas em uma planilha XLSX para referência futura.
 
 **Atualização de Cargo e Nome:**
 - O bot renomeia o usuário com o nickname fornecido, remove o cargo inicial e atribui um novo cargo para acesso total ao servidor.
